@@ -4,13 +4,13 @@ Repositório para o trabalho de extensão da matéria de programação web.
 Organização do projeto:
 
 front-end:
-Ana Carol
-Matheus
+Ana Carol,
+Matheus,
 Sabrina
 
 back-end:
-Gabriel
-Pedro
+Gabriel,
+Pedro,
 Carol
 
 framework:
