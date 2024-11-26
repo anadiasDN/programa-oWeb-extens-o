@@ -1,4 +1,4 @@
-# programa-oWeb-extens-o
+# programacao-Web-extensao
 Repositório para o trabalho de extensão da matéria de programação web.
 
 Organização do projeto:
