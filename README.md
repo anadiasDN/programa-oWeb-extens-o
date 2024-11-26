@@ -13,10 +13,15 @@ Gabriel
 Pedro
 Carol
 
-
 framework:
 Renan
 
 Banco de dados:
 Carol e Carol
+
+Páginas definidas até então:
+Página de cadastro
+Página de login
+Calculadora
+Perfil (projetos salvos e configurações do perfil)
 
