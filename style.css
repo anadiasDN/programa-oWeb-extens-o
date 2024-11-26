@@ -1,0 +1,35 @@
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f4ee;
+    padding: 15px 50px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/*.Titulo{
+    font-style: inherit;
+    color:#596b39
+}*/
+.logo{
+    
+   /*AAAAAAAAAAAAAAAAAAAAAAAAAAAAA*/
+}
+
+.main-header nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.main-header nav ul li a {
+    text-decoration: none;
+    color: #596b39;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    font-size: 120%;
+}
+
+.main-header nav ul li a:hover { 
+    color: #596b39;
+}
